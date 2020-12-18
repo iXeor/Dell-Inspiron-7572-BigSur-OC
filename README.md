@@ -15,7 +15,7 @@
 | 内存     | 16 GB ( 科赋 DDR4 2400MHz )                                |
 | 硬盘1     | 三星 970 EVO (250 GB / 固态硬盘 )                          |
 | 硬盘2     | HGST HTS541010B7E610 (1 TB / 机械硬盘 )                          |
-| 显卡1     | 英特尔 HD Graphics 620 （保留2048 MB显存）             |
+| 显卡1     | 英特尔 HD Graphics 620 （保留2 GB显存）             |
 | 显卡2     | NVIDIA MX 150 4G（未使用）              |
 | 显示器   | BOE(京东方) NV156FHM-H61 FHD 1920x1080 (15.6 英寸)                       |
 | 声卡     | ALC256 (layout-id:2/56)                                      |
