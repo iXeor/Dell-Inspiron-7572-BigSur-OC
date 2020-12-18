@@ -1,0 +1,1 @@
+# Dell-Inspiron-7572-BigSur-OC
