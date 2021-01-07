@@ -1,4 +1,5 @@
 # 适用于Dell Inspiron 7572笔记本安装与运行macOS Big Sur的OpenCore EFI配置
+  * 更新：2021年1月7日
 # 注意：该EFI文件只适用于Big Sur版本。
 # 本EFI配置思路基于[@ic005k](https://github.com/ic005k)的[Dell Inspiron 7472 OC配置文件](https://github.com/ic005k/DELL7472)
 * 如需运行Catalina版本，请使用 [@Lyn](https://github.com/lyngogogog)的 [EFI](https://github.com/lyngogogog/Dell-7472-7572-Hackintosh-EFI)配置文件。
@@ -20,7 +21,7 @@
 | 显示器   | BOE(京东方) NV156FHM-H61 FHD 1920x1080 (15.6 英寸)                       |
 | 声卡     | ALC256 (layout-id:2/56)                                      |
 | 网卡     | Intel Wi-Fi 6 AX200 160MHz                      |
-| OpenCore版本     | OpenCore-0.6.4-RELEASE                      |
+| OpenCore版本     | OpenCore-0.6.5-RELEASE                      |
 
 ## 特性
 
