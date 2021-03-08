@@ -1,5 +1,5 @@
 # 适用于Dell Inspiron 7572笔记本安装与运行macOS Big Sur的OpenCore EFI配置
-  * 更新：2021年2月15日
+  * 更新：2021年3月8日
   * 更新内容：
   * OpenCore 0.6.6 =====> OpenCore 0.6.8
   * 部分驱动更新
