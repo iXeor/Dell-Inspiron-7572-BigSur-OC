@@ -1,7 +1,7 @@
 # 适用于Dell Inspiron 7572笔记本安装与运行macOS Big Sur的OpenCore EFI配置
   * 更新：2021年2月15日
   * 更新内容：
-  * OpenCore 0.6.5 =====> OpenCore 0.6.6
+  * OpenCore 0.6.6 =====> OpenCore 0.6.8
   * 部分驱动更新
 # 注意：该EFI文件只适用于Big Sur版本。
 # 本EFI配置思路基于[@ic005k](https://github.com/ic005k)的[Dell Inspiron 7472 OC配置文件](https://github.com/ic005k/DELL7472)
@@ -34,7 +34,6 @@
 
 ## 目前已知问题与解决方法：
 
-* 如OC 0.6.6不能进行安装，请先使用OC 0.6.5安装，待安装安装完成后替换OC 0.6.6
 * 耳机插口失效问题：安装[ComboJack](https://github.com/hackintosh-stuff/ComboJack)以解决
 * SD卡卡槽暂时不能读取SD卡（待解决）
 * 如出现实装EFI后不能正常关机、时间错误的情况，可以通过安装Linux解决
