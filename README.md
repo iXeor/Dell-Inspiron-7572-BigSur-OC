@@ -15,7 +15,7 @@
 | -------- | ------------------------------------------------------------ |
 | 电脑型号 | 戴尔 Inspiron 7572 笔记本电脑                                |
 | BIOS版本 | Inspiron_7472_7572_1.6.1                               |
-| 操作系统 | macOS Big Sur 11.2.1/Windows 10 专业工作站版Insider Preview Build 21301.1010/Ubuntu 20.10       |
+| 操作系统 | macOS Big Sur 11.2.3/Windows 10 专业工作站版Insider Preview Build 21301.1010/Ubuntu 20.10       |
 | 处理器   | Intel Core i5-8250U @ 1.80GHz 四核八线程                          |
 | 内存     | 16 GB ( 科赋 DDR4 2400MHz )                                |
 | 硬盘1     | 三星 970 EVO (250 GB / 固态硬盘 )                          |
