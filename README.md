@@ -1,8 +1,7 @@
 # 适用于Dell Inspiron 7572笔记本安装与运行macOS Big Sur的OpenCore EFI配置
-  * 更新：2021年3月8日
+  * 更新：2021年4月9日
   * 更新内容：
-  * OpenCore 0.6.6 =====> OpenCore 0.6.8
-  * 部分驱动更新
+  * OpenCore 0.6.8 =====> OpenCore 0.6.9
 # 注意：该EFI文件只适用于Big Sur版本。
 # 本EFI配置思路基于[@ic005k](https://github.com/ic005k)的[Dell Inspiron 7472 OC配置文件](https://github.com/ic005k/DELL7472)
 * 如需运行Catalina版本，请使用 [@Lyn](https://github.com/lyngogogog)的 [EFI](https://github.com/lyngogogog/Dell-7472-7572-Hackintosh-EFI)配置文件。
@@ -15,7 +14,7 @@
 | -------- | ------------------------------------------------------------ |
 | 电脑型号 | 戴尔 Inspiron 7572 笔记本电脑                                |
 | BIOS版本 | Inspiron_7472_7572_1.6.1                               |
-| 操作系统 | macOS Big Sur 11.2.3/Windows 10 专业工作站版Insider Preview Build 21301.1010/Ubuntu 20.10       |
+| 操作系统 | macOS Big Sur 11.2.3/Windows 10 专业工作站版Dev 21354.1/Ubuntu 20.10       |
 | 处理器   | Intel Core i5-8250U @ 1.80GHz 四核八线程                          |
 | 内存     | 16 GB ( 科赋 DDR4 2400MHz )                                |
 | 硬盘1     | 三星 970 EVO (250 GB / 固态硬盘 )                          |
@@ -31,6 +30,7 @@
 
 * 集成[OpenIntelWireless](https://github.com/OpenIntelWireless)的[itlwm](https://github.com/OpenIntelWireless/itlwm)、[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)和[AirportItlwm](https://github.com/OpenIntelWireless/itlwm/tree/master/AirportItlwm)，可以使用一部分Intel品牌的无线网卡
 * 支持将macOS Big Sur安装到机械硬盘
+* 引导界面可以关机或重启
 
 ## 目前已知问题与解决方法：
 
