@@ -24,7 +24,7 @@
 | 显示器   | BOE(京东方) NV156FHM-H61 FHD 1920x1080 (15.6 英寸)                       |
 | 声卡     | ALC256 (layout-id:2/56)                                      |
 | 网卡     | Intel Wi-Fi 6 AX200 160MHz                      |
-| OpenCore版本     | OpenCore-0.6.8-RELEASE                      |
+| OpenCore版本     | OpenCore-0.7.0-RELEASE                      |
 
 ## 特性
 
