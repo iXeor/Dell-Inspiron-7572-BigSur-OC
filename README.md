@@ -6,7 +6,7 @@
 # 本EFI配置思路基于[@ic005k](https://github.com/ic005k)的[Dell Inspiron 7472 OC配置文件](https://github.com/ic005k/DELL7472)
 * 如需运行Catalina版本，请使用 [@Lyn](https://github.com/lyngogogog)的 [EFI](https://github.com/lyngogogog/Dell-7472-7572-Hackintosh-EFI)配置文件。
 * 如若安装更低版本的macOS，可以使用[@黑果小兵](https://github.com/daliansky)的[CLOVER配置文件](https://github.com/daliansky/Dell-Inspiron-7560-Hackintosh)
-# >>>[点击此处下载EFI配置文件(Github)](https://github.com/iXeor/Dell-Inspiron-7572-BigSur-OC/releases/download/Dell-Ins-7572-BigSur-OC-6.9-RELEASE/EFI.zip)<<<
+# >>>[点击此处下载EFI配置文件(Github) 网络问题，暂未上传Release包](https://github.com/iXeor/Dell-Inspiron-7572-BigSur-OC/releases/download/Dell-Ins-7572-BigSur-OC-6.9-RELEASE/EFI.zip)<<<
 # >>>[点击此处下载EFI配置文件(Gitee)](https://gitee.com/Shirakage/Dell-Inspiron-7572-BigSur-OC/attach_files/709779/download/EFI.zip)<<<
 ## 电脑配置
 
