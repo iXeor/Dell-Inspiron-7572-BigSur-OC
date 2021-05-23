@@ -1,7 +1,7 @@
 # 适用于Dell Inspiron 7572笔记本安装与运行macOS Big Sur的OpenCore EFI配置
   * 更新：2021年4月9日
   * 更新内容：
-  * OpenCore 0.6.8 =====> OpenCore 0.6.9
+  * OpenCore 0.6.9 =====> OpenCore 0.7.0
 # 注意：该EFI文件只适用于Big Sur版本。
 # 本EFI配置思路基于[@ic005k](https://github.com/ic005k)的[Dell Inspiron 7472 OC配置文件](https://github.com/ic005k/DELL7472)
 * 如需运行Catalina版本，请使用 [@Lyn](https://github.com/lyngogogog)的 [EFI](https://github.com/lyngogogog/Dell-7472-7572-Hackintosh-EFI)配置文件。
@@ -14,7 +14,7 @@
 | -------- | ------------------------------------------------------------ |
 | 电脑型号 | 戴尔 Inspiron 7572 笔记本电脑                                |
 | BIOS版本 | Inspiron_7472_7572_1.6.1                               |
-| 操作系统 | macOS Big Sur 11.2.3/Windows 10 专业工作站版Dev 21354.1/Ubuntu 20.10       |
+| 操作系统 | macOS Big Sur 11.3.1/Windows 10 专业工作站版Dev 21387/Ubuntu 20.10       |
 | 处理器   | Intel Core i5-8250U @ 1.80GHz 四核八线程                          |
 | 内存     | 16 GB ( 科赋 DDR4 2400MHz )                                |
 | 硬盘1     | 三星 970 EVO (250 GB / 固态硬盘 )                          |
